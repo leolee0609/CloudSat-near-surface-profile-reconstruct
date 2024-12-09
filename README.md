@@ -4,6 +4,8 @@ A research project developing a Transformer-based model to reconstruct global ne
 
 ## Project title
 A transfer learning approach to reconstruct ground-cluttered near-surface snowfall global profiles from spaceborne radar
+Author: Ding Li, MMATH in Computational Mathematics, Faculty of Mathematics
+Advisor: Dr. Chris Fletcher
 
 
 ## Abstract
